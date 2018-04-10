@@ -18,6 +18,9 @@
  * @package WordPress
  */
 
+define('WP_HOME', 'http://fishtech.guru');
+define('WP_SITEURL', http://fishtech.guru');
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', $_SERVER['RDS_DB_NAME']);
@@ -79,6 +82,10 @@ $table_prefix  = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
+
+/**  S3 Programattic Access */
+define( 'AS3CF_AWS_ACCESS_KEY_ID', $_SERVER['S3_ID']); 
+define( 'AS3CF_AWS_SECRET_ACCESS_KEY', $_SERVER['S3_KEY'] );
 
 /* That's all, stop editing! Happy blogging. */
 

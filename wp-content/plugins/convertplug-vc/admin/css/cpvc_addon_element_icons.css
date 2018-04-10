@@ -1,0 +1,36 @@
+.cpvc_display_inline_icon {
+	background-image: url(../Icons/Inline-Display.jpg) !important;
+	background-position:0 0 !important;
+}
+.cpvc_custom_form_container_icon {
+	background-image: url(../Icons/Form.png) !important;
+	background-position:0 0 !important;
+}
+.cpvc_form_textfield_icon {
+	background-image: url(../Icons/Text-Field.png) !important;
+	background-position:0 0 !important;
+}
+.cpvc_form_emailfield_icon {
+	background-image: url(../Icons/Email.png) !important;
+	background-position:0 0 !important;
+}
+.cpvc_form_textarea_icon {
+	background-image: url(../Icons/Text-Area.png) !important;
+	background-position:0 0 !important;
+}
+.cpvc_form_number_icon {
+	background-image: url(../Icons/Number.png) !important;
+	background-position:0 0 !important;
+}
+.cpvc_form_dropdown_icon {
+	background-image: url(../Icons/Dropdown.png) !important;
+	background-position:0 0 !important;
+}
+.cpvc_form_hiddenfield_icon {
+	background-image: url(../Icons/Hide-Field.png) !important;
+	background-position:0 0 !important;
+}
+.cpvc_form_submit_icon {
+	background-image: url(../Icons/Submit.png) !important;
+	background-position:0 0 !important;
+}

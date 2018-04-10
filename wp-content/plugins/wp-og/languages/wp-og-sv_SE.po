@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-og\n"
+"POT-Creation-Date: 2015-10-22 09:12+0200\n"
+"PO-Revision-Date: 2015-10-22 09:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wp-og-admin.php:61 admin/class-wp-og-admin.php:62
+#: admin/class-wp-og-admin.php:105 admin/partials/wp-og-admin-display.php:24
+msgid "Open Graph Tags"
+msgstr "Open Graph-taggar"
+
+#: admin/partials/wp-og-admin-display.php:26
+msgid ""
+"Take control of what the Facebook crawler picks up from each page by using "
+"Open Graph meta tags. These tags provide structured info about the page such "
+"as the title, description, preview image, and more."
+msgstr ""
+"Ta kontroll över vilken data Facebooks crawler ska hitta genom att använda "
+"Open Graphs meta-taggar. Dessa taggar tillhandahåller information om sidan, "
+"såsom titel, beskrivning, bild, med mera."
+
+#: admin/partials/wp-og-admin-display.php:31
+msgid "Edit default settings"
+msgstr "Ändra standardinställningarna"
+
+#: admin/partials/wp-og-admin-display.php:32
+msgid "The settings below will be used as defaults and on the frontpage."
+msgstr ""
+"Inställningarna nedan kommer att användas som standard samt på startsidan."
+
+#: admin/partials/wp-og-admin-display.php:37
+msgid "Site name"
+msgstr "Sidnamn"
+
+#: admin/partials/wp-og-admin-display.php:42
+msgid "Provide a site name, e.g. \"My Favorite News\""
+msgstr "Skriv in sidans namn."
+
+#: admin/partials/wp-og-admin-display.php:48
+msgid "Title"
+msgstr "Titel"
+
+#: admin/partials/wp-og-admin-display.php:53
+msgid "A clear title without branding or mentioning the domain itself."
+msgstr "En tydlig titel utan sälj och utan att nämna domänen."
+
+#: admin/partials/wp-og-admin-display.php:59
+#: admin/partials/wp-og-meta-box.php:34
+msgid "Description"
+msgstr "Beskrivning"
+
+#: admin/partials/wp-og-admin-display.php:64
+#: admin/partials/wp-og-meta-box.php:40
+msgid "A clear description, at least two sentences long."
+msgstr "En tydlig beskrivning, minst två meningar lång."
+
+#: admin/partials/wp-og-admin-display.php:70
+msgid "App ID"
+msgstr "App ID"
+
+#: admin/partials/wp-og-admin-display.php:75
+msgid "A Facebook App ID that identifies your website to Facebook."
+msgstr "Ett Facebook ID som identifierar din sida på Facebook."
+
+#: admin/partials/wp-og-admin-display.php:81
+msgid "Image"
+msgstr "Bild"
+
+#: admin/partials/wp-og-admin-display.php:85
+#: admin/partials/wp-og-meta-box.php:49
+msgid "Select image"
+msgstr "Välj bild"
+
+#: admin/partials/wp-og-admin-display.php:87
+msgid "The default image to show on Facebook."
+msgstr "Standardbilden att visa på Facebook."
+
+#: admin/partials/wp-og-admin-display.php:93
+msgid "Activate for post types"
+msgstr "Aktivera för posttyper"
+
+#: admin/partials/wp-og-admin-display.php:106
+msgid "Select where you want the OG tags to appear."
+msgstr "Välj var du vill att OG-taggarna ska synas."
+
+#: admin/partials/wp-og-admin-display.php:117
+#: admin/partials/wp-og-admin-display.php:121
+#: admin/partials/wp-og-meta-box.php:62
+msgid "Open Graph Debugger"
+msgstr "Open Graph Debugger"
+
+#: admin/partials/wp-og-admin-display.php:119
+#: admin/partials/wp-og-meta-box.php:60
+msgid ""
+"If you update these settings you might need to tell Facebook to scrape the "
+"new information."
+msgstr ""
+"Om du uppdaterar dessa inställningar kan du behöva säga åt Facebook att "
+"använda den nya information."
+
+#: admin/partials/wp-og-admin-display.php:126
+msgid "Open Graph Best Practices"
+msgstr "Open Graph Best Practices"
+
+#: admin/partials/wp-og-admin-display.php:128
+msgid "Learn more about how to use the OG tags in the best possible way. "
+msgstr "Lär dig mer om hur du kan använda OG-taggarna på bästa sätt."
+
+#: admin/partials/wp-og-admin-display.php:130
+msgid "Learn More"
+msgstr "Lär dig mer"
+
+#: admin/partials/wp-og-meta-box.php:31
+msgid ""
+"A clear title without branding or mentioning the domain itself. Leave empty "
+"to use post title."
+msgstr ""
+"En tydlig titel utan sälj och utan att nämna domänen. Lämna tom för att "
+"använda inläggets titel."
+
+#: admin/partials/wp-og-meta-box.php:41
+msgid "Leave empty to use excerpt."
+msgstr "Lämna tom för att använda ingressen."
+
+#: admin/partials/wp-og-meta-box.php:46
+msgid "Image:"
+msgstr "Bild:"
+
+#: admin/partials/wp-og-meta-box.php:54
+#, php-format
+msgid ""
+"The minimum image size is 200 x 200 pixels. Leave empty to use the <a href="
+"\"%s\">default image</a>."
+msgstr ""
+"Minsta bildstorlek är 200 x 200 pixlar. Lämna tom för att använd <a href=\"%s"
+"\">standardbilden</a>."
+
+#~ msgid "Activate for post types:"
+#~ msgstr "Aktivera för posttyper"

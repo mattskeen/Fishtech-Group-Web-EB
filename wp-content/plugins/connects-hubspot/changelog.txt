@@ -1,0 +1,20 @@
+Version 1.1.1 - 6 June, 2017
+-Fixed: missing subscriber data with contact form 7, WP registration form and wooCommerce checkout form.
+
+ver 1.1.0 - 29 May, 2017
+- Improvement: Added support for adding contact with lists.
+
+ver 1.0.3 - 8 March, 2017
+- Fix: Security - Code hardening for better security.
+- Fix: PHP 7 compatibility issues
+- Improvement: Added support for HTML tags in success/failure message.
+
+ver 1.0.2 - 11 May, 2016
+- Improvement: Added Detailed error message for "Something went wrong" case. 
+
+ver 1.0.1 - 10 March, 2016
+- Improvement: Updated auto update functionality
+
+ver 1.0.0 - 
+- Initial Connects - Hubspot Addon
+

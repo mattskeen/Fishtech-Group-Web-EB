@@ -1,0 +1,1 @@
+Easy to use form builder for Visual Composer users. Now you can create form with unlimited fields, save form submission data in campaigns, see analytics, graphs & best of all - third party sync with Mailchimp, MyMail etc.
