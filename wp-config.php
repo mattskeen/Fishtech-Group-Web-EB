@@ -19,7 +19,7 @@
  */
 
 define('WP_HOME', 'http://fishtech.guru');
-define('WP_SITEURL', http://fishtech.guru');
+define('WP_SITEURL', 'http://fishtech.guru');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
